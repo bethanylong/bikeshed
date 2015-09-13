@@ -1,27 +1,25 @@
-Getting to know your system
-===========================
+# Getting to know your system
 
-The filesystem
---------------
+## The Filesystem
+
 
 - navigating
 - `man hier`
 
-Users
------
+## Users
 
 - root and `sudo`
 
-Shells
-------
+## Shells
 
 - why you can't `sudo cd`
 
-Editors
--------
+### Environment Variables
+- `$PATH`
 
-OS fundamentals
----------------
+## Editors
+
+## OS fundamentals
 
 - the kernel
 - processes
