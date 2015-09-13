@@ -34,6 +34,8 @@ The `man` (manual) page for `ssh`, conveniently available by doing `man ssh`, ex
 
     ssh -p 922 username@linux.cs.wwu.edu
 
+As a side note, if you've never encountered `man` pages, it's worth doing `man man` to see what they're all about. In short, `man` pages are your system's built-in documentation for installed programs and certain other system features.
+
 ### tmux
 
 `tmux`, which stands for "terminal multiplexer", is an excellent way to manage your `ssh` connections, especially if you're connecting to multiple machines or even if you just want to avoid constantly setting up a new session. Many people connect to different machines in completely separate terminal windows, but with `tmux`, you can connect to one machine running your `tmux` session, attach to your session, and have access to as many persistent `ssh` connections as you can stomach.
