@@ -34,6 +34,8 @@ The `man` (manual) page for `ssh`, conveniently available by doing `man ssh`, ex
 
     ssh -p 922 username@linux.cs.wwu.edu
 
+If you set up [SSH keys](http://blog.packetdisarray.com/2015/08/06/passphrase-ssh-keys-without-repetitive-typing/), you won't have to type your password in every time.
+
 As a side note, if you've never encountered `man` pages, it's worth doing `man man` to see what they're all about. In short, `man` pages are your system's built-in documentation for installed programs and certain other system features.
 
 ### tmux
